@@ -13,7 +13,7 @@
 
 ## Стек технологий:
 
-`pandas`, `matplotlib`, `optuna`, `seaborn`, `scikit-learn`, `imbalanced-learn`, `catboost`, `pickle`, `streamlit`.
+`pandas`, `matplotlib`, `optuna`, `seaborn`, `scikit-learn`, `imbalanced-learn`, `catboost`, `pickle`, `streamlit`, `pandas_profiling`.
 
 ## Статус проекта:
 
